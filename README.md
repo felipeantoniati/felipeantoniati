@@ -18,10 +18,9 @@ Meu foco principal está em **JavaScript**, e tenho experiência sólida em **HT
 
 ## 📈 Estatísticas do GitHub
 
-<div style="display: flex; justify-content: space-between; width: 100%, ">
-  <img style="margin-rigth: 20px," src="https://github-readme-stats.vercel.app/api?username=felipeantoniati&show_icons=true&count_private=true&hide=issues&theme=dark" alt="Estatísticas do GitHub" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeantoniati&layout=compact&theme=dark" alt="Top Linguagens" width="48%">
-</div>
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipeantoniati&show_icons=true&count_private=true&hide=issues&theme=dark)
 
 ## 🌐 Conecte-se Comigo
 
@@ -36,3 +35,4 @@ Meu foco principal está em **JavaScript**, e tenho experiência sólida em **HT
 
 **⭐️ Se gostar de algum projeto meu, ficaria feliz com uma ⭐️ no repositório!**
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeantoniati&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
