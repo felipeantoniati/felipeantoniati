@@ -18,8 +18,8 @@ Meu foco principal está em **JavaScript**, e tenho experiência sólida em **HT
 
 ## 📈 Estatísticas do GitHub
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipeantoniati&show_icons=true&count_private=true&hide=issues&theme=dark" alt="Estatísticas do GitHub" width="48%">
+<div style="display: flex; justify-content: space-between; width: 100%, ">
+  <img style="margin-rigth: 20px," src="https://github-readme-stats.vercel.app/api?username=felipeantoniati&show_icons=true&count_private=true&hide=issues&theme=dark" alt="Estatísticas do GitHub" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeantoniati&layout=compact&theme=dark" alt="Top Linguagens" width="48%">
 </div>
 
