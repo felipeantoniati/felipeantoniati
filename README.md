@@ -18,8 +18,6 @@ Meu foco principal está em **JavaScript**, e tenho experiência sólida em **HT
 
 ## 📈 Estatísticas do GitHub
 
-## 📈 Estatísticas do GitHub
-
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipeantoniati&show_icons=true&count_private=true&hide=issues&theme=dark)
 
 ## 🌐 Conecte-se Comigo
